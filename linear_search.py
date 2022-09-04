@@ -1,3 +1,4 @@
+# At A Glance! (Yash Ajit Paddalwar)
 def linear_search(arr,element):
     for i in range(len(arr)):
         if arr[i] == element:
